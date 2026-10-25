@@ -1,11 +1,12 @@
 # Coffee-Sales-Dashboard-Microsoft-Excel [Project]
 ☕ An interactive Coffee Sales Dashboard built using Microsoft Excel to analyze sales performance, identify trends, and visualize key business insights using Pivot Tables, Pivot Charts, and data visualization techniques. 
 
-# Output
+# Output:-
 <img width="1500" height="643" alt="coffee-1mb" src="https://github.com/user-attachments/assets/9d32912e-ac1e-4c7d-b8fb-b513dc0b8884" />
 
-# Video Link This Project
+# Video Link This Project:-
 https://www.linkedin.com/feed/update/urn:li:activity:7500600458269519872/
+
 # Project Description:-
  ☕ 𝐂𝐨𝐟𝐟𝐞𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 | 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 📊
 Excited to share my latest Coffee Sales Dashboard, created using Microsoft Excel!
